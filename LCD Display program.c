@@ -1,5 +1,5 @@
 /*
-LCD Display
+LCD Display program
 
 A friend of yours has just bought a new computer. Before this, the most powerful
 machine he ever used was a pocket calculator. He is a little disappointed because he
